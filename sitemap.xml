@@ -3,11 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://hmwf.biz/categories/</loc>
+    <loc>https://hmwf.biz/</loc>
+    <lastmod>2020-01-01T21:23:59-06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hmwf.biz/</loc>
+    <loc>https://hmwf.biz/post/moved/</loc>
+    <lastmod>2020-01-01T21:23:59-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hmwf.biz/post/</loc>
+    <lastmod>2020-01-01T21:23:59-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hmwf.biz/categories/</loc>
   </url>
   
   <url>

@@ -1,28 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>https://hmwf.biz/</loc>
+    <loc>https://hmwf.llc/</loc>
     <lastmod>2020-01-01T21:23:59-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hmwf.biz/post/moved/</loc>
+  </url><url>
+    <loc>https://hmwf.llc/post/moved/</loc>
     <lastmod>2020-01-01T21:23:59-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hmwf.biz/post/</loc>
+  </url><url>
+    <loc>https://hmwf.llc/post/</loc>
     <lastmod>2020-01-01T21:23:59-06:00</lastmod>
+  </url><url>
+    <loc>https://hmwf.llc/categories/</loc>
+  </url><url>
+    <loc>https://hmwf.llc/tags/</loc>
   </url>
-  
-  <url>
-    <loc>https://hmwf.biz/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://hmwf.biz/tags/</loc>
-  </url>
-  
 </urlset>

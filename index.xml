@@ -2,24 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Heavy Metal Welding &amp; Fabrication</title>
-    <link>https://hmwf.biz/</link>
+    <link>https://hmwf.llc/</link>
     <description>Recent content on Heavy Metal Welding &amp; Fabrication</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 01 Jan 2020 21:23:59 -0600</lastBuildDate>
-    
-	<atom:link href="https://hmwf.biz/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://hmwf.llc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Moved</title>
-      <link>https://hmwf.biz/post/moved/</link>
+      <link>https://hmwf.llc/post/moved/</link>
       <pubDate>Wed, 01 Jan 2020 21:23:59 -0600</pubDate>
-      
-      <guid>https://hmwf.biz/post/moved/</guid>
+      <guid>https://hmwf.llc/post/moved/</guid>
       <description>New website and new location!
-We&#39;ve relocated to Baton Rouge, LA but are not currently taking on any projects. Once I am able to start working again I will post an update.</description>
+We&amp;rsquo;ve relocated to Baton Rouge, LA but are not currently taking on any projects. Once I am able to start working again I will post an update.</description>
     </item>
-    
   </channel>
 </rss>

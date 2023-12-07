@@ -176,7 +176,7 @@
     link = createEl('a');
     icon = createEl('img');
     icon.className = 'icon';
-    icon.src = 'https://hmwf.biz/images/icons/link.svg';
+    icon.src = 'https://hmwf.llc/images/icons/link.svg';
     link.className = 'link';
     link.appendChild(icon);
     id = node.getAttribute('id');
